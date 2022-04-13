@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+.heading {
+  background-image: url(./../image/beachshowcase.jpg);  
+  background-size: cover;
+  height: 100vh;
+  box-sizing: border-box;
+  text-align: center;
+}
+.headin-title.heading-subtitle{
+  
+}
+
