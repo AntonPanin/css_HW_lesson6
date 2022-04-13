@@ -4,11 +4,34 @@ body{
 .heading {
   background-image: url(./../image/beachshowcase.jpg);  
   background-size: cover;
+  background-position: center;
   height: 100vh;
   box-sizing: border-box;
   text-align: center;
+  padding-top: 35vh;
 }
-.headin-title.heading-subtitle{
-  
+.headin-title{
+  box-sizing: border-box;
+  margin:0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 2.5em;
+  color: #926239;
+  text-transform: capitalize;
+}
+.heading-subtitle{
+  box-sizing: border-box;
+  margin-top: 10px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #926239;
+}
+.button{
+  font-size: 18px;
+  text-decoration-line: none;
+  text-transform: capitalize;
+  color:#926239;
+  border:#926239 solid 1px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 30px;
 }
 
