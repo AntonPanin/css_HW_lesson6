@@ -47,7 +47,6 @@ body{
   display: block;
   line-height: 22px;
   font-size: 13.3px;
-  text-align: center;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .article-long-article1{
@@ -55,18 +54,21 @@ body{
   margin: 0;
   background-color: #926239;
   color: #fff;
+  text-align: center;
 }
 .article-long-article2{
   padding: 15px;
   margin: 0;
   background-color: #f4f4f4;
   color: #926239;
+  text-align: center;
 }
 .article-short-article1,.article-short-article2,.article-short-article3{
   margin: 0;
   width: 33.33%;
   display: inline-block;
   box-sizing: border-box;
+  text-align: left;
 }
 .article-short-article1{
   padding: 15px;
