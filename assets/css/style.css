@@ -62,9 +62,25 @@ body{
   background-color: #f4f4f4;
   color: #926239;
 }
-  .article-short-article1,.article-short-article2,.article-short-article3{
-  width: 33,33%;
+.article-short-article1,.article-short-article2,.article-short-article3{
+  margin: 0;
+  width: 33.33%;
   display: inline-block;
   box-sizing: border-box;
 }
-
+.article-short-article1{
+  padding: 15px;
+  margin: 0;
+  background-color: #926239;
+  color: #fff;
+}
+.article-short-article2{
+  padding: 15px;
+  margin: 0;
+}
+.article-short-article3{
+  padding: 15px;
+  margin: 0;
+  background-color: #926239;
+  color: #fff;
+}
